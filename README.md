@@ -7,7 +7,7 @@ The **GrowGuide** is a machine learning-based web application that suggests the 
 ✅ Machine learning models for crop prediction  
 ✅ Flask-based API for model deployment  
 ✅ User-friendly web interface  
-✅ CSV dataset with soil & climate data  
+✅ CSV  dataset with soil & climate data  
 ✅ Supports **Decision Tree, Random Forest, SVM, and Gradient Boosting**  
 
 ---

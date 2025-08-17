@@ -47,7 +47,7 @@ Edit
 ## 🔧 Installation & Setup  
 
 ### 1️⃣ Clone the Repository  
-- git clone https://github.com/yourusername/Crop-Recommendation-System.git
+- git clone https://github.com/Ayushyadav89/GrowGuide-Crop-Recommendation-system
 - cd Crop-Recommendation-System
 
 ### 2️⃣ Install Dependencies

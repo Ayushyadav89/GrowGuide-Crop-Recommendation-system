@@ -28,9 +28,7 @@ The **GrowGuide** is a machine learning-based web application that suggests the 
 ---
 
 ## ScreenShot
-<img width="1920" height="1080" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/cb7b02dc-2233-45f1-b3ae-f4ac19cdb6d0" />
-<img width="1920" height="1080" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/931bc132-c9a5-48f0-b54b-cf04179e5a5b" />
-
+<img width="1920" height="871" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/7b23974d-1bee-464d-9257-07320e3356cd" />
 
 ---
 

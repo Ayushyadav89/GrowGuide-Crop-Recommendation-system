@@ -54,7 +54,7 @@ Edit
 
 ### 3️⃣ Run Jupyter Notebook
 - jupyter notebook
-- Open notebooks/model_training.ipynb and run the cells to train the model.
+- Open notebooks/model_training.ipynb  and run the cells to train the model.
 - Save the trained model as model.pkl.
 
 ### 4️⃣ Run Flask Backend
